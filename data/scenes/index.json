@@ -1,0 +1,32 @@
+{
+  "scenes": {
+    "airport-parting-scene": {
+      "name": "airport-parting-scene",
+      "path": "airport-parting-scene/scene.json",
+      "audioPath": null,
+      "createdAt": "2026-03-03T07:56:47.700Z",
+      "updatedAt": "2026-03-03T07:58:00.042Z"
+    },
+    "reunion": {
+      "name": "reunion",
+      "path": "reunion/scene.json",
+      "audioPath": null,
+      "createdAt": "2026-04-01T13:00:04.035Z",
+      "updatedAt": "2026-04-01T13:00:04.035Z"
+    },
+    "army-man-s-reunion-with-his-wife-after-war": {
+      "name": "army-man-s-reunion-with-his-wife-after-war",
+      "path": "army-man-s-reunion-with-his-wife-after-war/scene.json",
+      "audioPath": "army-man-s-reunion-with-his-wife-after-war/audio.wav",
+      "createdAt": "2026-04-02T12:13:12.458Z",
+      "updatedAt": "2026-04-02T12:13:12.458Z"
+    },
+    "lost-girl": {
+      "name": "lost-girl",
+      "path": "lost-girl/scene.json",
+      "audioPath": "lost-girl/audio.wav",
+      "createdAt": "2026-04-03T05:09:56.815Z",
+      "updatedAt": "2026-04-03T13:29:34.399Z"
+    }
+  }
+}

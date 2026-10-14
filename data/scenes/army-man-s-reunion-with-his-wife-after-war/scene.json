@@ -1,0 +1,137 @@
+{
+  "name": "Army man's reunion with his wife after war",
+  "slug": "army-man-s-reunion-with-his-wife-after-war",
+  "scenePrompt": "A warm and emotional union of an army commander with his wife after he was deployed as commander in war zone for last two years and had touched death more than 4 times. emotional scene with emotions of crying and laughing together",
+  "speakers": [
+    {
+      "id": "Male1",
+      "voiceName": "Charon",
+      "actingPrompt": "",
+      "gender": "male"
+    },
+    {
+      "id": "Female1",
+      "voiceName": "Leda",
+      "actingPrompt": "",
+      "gender": "female"
+    }
+  ],
+  "dialogue": {
+    "title": "Home At Last",
+    "sceneMood": "Overwhelming emotional relief, tearful joy, and profound reunion after a harrowing separation.",
+    "characters": [
+      {
+        "speakerId": "Male1",
+        "characterName": "Ethan Vance",
+        "role": "Army Commander",
+        "shortDescription": "A hardened but emotionally vulnerable army commander, returning home after two years in a war zone, deeply relieved."
+      },
+      {
+        "speakerId": "Female1",
+        "characterName": "Clara Vance",
+        "role": "Wife",
+        "shortDescription": "Ethan's resilient and deeply loving wife, overwhelmed with relief and joy at his safe, long-awaited return."
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Female1",
+        "characterName": "Clara Vance",
+        "text": "Oh, Ethan... you're really here. You're truly home.",
+        "emotion": "Overjoyed, tearful relief",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Ethan Vance",
+        "text": "I'm here, my love. Finally in your arms. I made it back.",
+        "emotion": "Deep relief, emotional, exhausted",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Clara Vance",
+        "text": "I missed you so much. Every single day was an eternity.",
+        "emotion": "Heartfelt longing, sadness",
+        "pace": "medium",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Ethan Vance",
+        "text": "And I, you. More than I could say. It was hell, Clara.",
+        "emotion": "Deep affection, underlying trauma",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Clara Vance",
+        "text": "I was so scared. So many nights thinking the worst.",
+        "emotion": "Fear, vulnerability, anxiety",
+        "pace": "medium",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Ethan Vance",
+        "text": "I know. But I'm safe now. Right here, with you. No more fear.",
+        "emotion": "Reassuring, tender, relief",
+        "pace": "slow",
+        "intensity": "medium"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Clara Vance",
+        "text": "They said it was... very bad. You touched death, didn't you?",
+        "emotion": "Concern, trepidation, lingering fear",
+        "pace": "slow",
+        "intensity": "medium"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Ethan Vance",
+        "text": "More times than I'd like to count. But it's behind me now. We're here.",
+        "emotion": "Somber, relief, a hint of weariness",
+        "pace": "medium",
+        "intensity": "medium"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Clara Vance",
+        "text": "You stubborn, brave man. Always coming back to me.",
+        "emotion": "Affectionate, tearful humor, admiration",
+        "pace": "medium",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Ethan Vance",
+        "text": "Wouldn't miss this for anything. Not even for a very close call.",
+        "emotion": "Playful, loving, relief, dark humor",
+        "pace": "fast",
+        "intensity": "medium"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Clara Vance",
+        "text": "You're an idiot, you know that? My absolute idiot.",
+        "emotion": "Joyful, loving, laughing through tears",
+        "pace": "fast",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Ethan Vance",
+        "text": "And you're my beautiful, crazy wife. Always.",
+        "emotion": "Deep love, playful, laughing",
+        "pace": "medium",
+        "intensity": "high"
+      }
+    ]
+  },
+  "createdAt": "2026-04-02T12:13:12.458Z",
+  "updatedAt": "2026-04-02T12:13:12.458Z"
+}

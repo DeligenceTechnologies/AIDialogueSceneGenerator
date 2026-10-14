@@ -1,0 +1,72 @@
+{
+  "name": "reunion",
+  "slug": "reunion",
+  "scenePrompt": "An emotional scene wife is separated from her husband for 7 years and meets her husband after a gap of 7 years . All the emotions in the voice and dialogue should be depicted properly",
+  "speakers": [
+    {
+      "id": "Male1",
+      "voiceName": "Kore",
+      "actingPrompt": "Soft-spoken, warm, slightly nervous."
+    },
+    {
+      "id": "Female1",
+      "voiceName": "Puck",
+      "actingPrompt": "Relieved, affectionate, steady tone."
+    }
+  ],
+  "dialogue": {
+    "title": "Seven Years Apart",
+    "lines": [
+      {
+        "speaker": "Male1",
+        "text": "Sarah? Is that really you?"
+      },
+      {
+        "speaker": "Female1",
+        "text": "Daniel. Oh, Daniel."
+      },
+      {
+        "speaker": "Male1",
+        "text": "It’s been so long. Seven years."
+      },
+      {
+        "speaker": "Female1",
+        "text": "Yes. So many years, darling."
+      },
+      {
+        "speaker": "Male1",
+        "text": "You haven't changed a bit."
+      },
+      {
+        "speaker": "Female1",
+        "text": "Neither have you, not really."
+      },
+      {
+        "speaker": "Male1",
+        "text": "I... I thought about this often."
+      },
+      {
+        "speaker": "Female1",
+        "text": "Me too. Every single day."
+      },
+      {
+        "speaker": "Male1",
+        "text": "Are you really here now?"
+      },
+      {
+        "speaker": "Female1",
+        "text": "I am. Right here, with you."
+      },
+      {
+        "speaker": "Male1",
+        "text": "I missed you. So much."
+      },
+      {
+        "speaker": "Female1",
+        "text": "I missed you more, my love."
+      }
+    ]
+  },
+  "createdAt": "2026-04-01T13:00:04.035Z",
+  "updatedAt": "2026-04-01T13:00:04.035Z"
+}

@@ -1,0 +1,129 @@
+{
+  "name": "lost-girl",
+  "slug": "lost-girl",
+  "scenePrompt": "A girl is lost at a market place and taken home by an stranger uncle. Girl age 15 years and uncle's 30 years. Girl is uncontrollby weeping and sobing and afraid to even walk",
+  "speakers": [
+    {
+      "id": "Female1",
+      "voiceName": "Leda",
+      "actingPrompt": "",
+      "gender": "female"
+    },
+    {
+      "id": "Male1",
+      "voiceName": "Orus",
+      "actingPrompt": "",
+      "gender": "male"
+    }
+  ],
+  "dialogue": {
+    "title": "Lost at the Market",
+    "sceneMood": "Distressed, cautious, empathetic",
+    "characters": [
+      {
+        "speakerId": "Female1",
+        "characterName": "Maya",
+        "role": "Lost Teenager",
+        "shortDescription": "A 15-year-old girl, distraught and terrified, struggling to walk through tears."
+      },
+      {
+        "speakerId": "Male1",
+        "characterName": "Raj",
+        "role": "Concerned Stranger",
+        "shortDescription": "A kind-faced man in his early thirties, trying to help a lost girl find her way home."
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "Male1",
+        "characterName": "Raj",
+        "text": "It's okay, Maya. We are almost there.",
+        "emotion": "Reassuring",
+        "pace": "medium",
+        "intensity": "low"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Maya",
+        "text": "(sobbing) I… I can't walk anymore.",
+        "emotion": "Despair",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Raj",
+        "text": "I know it's hard. Just a little further, okay?",
+        "emotion": "Patient",
+        "pace": "medium",
+        "intensity": "medium"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Maya",
+        "text": "I don't know where it is.",
+        "emotion": "Confusion",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Raj",
+        "text": "Think about your street name. Try to remember.",
+        "emotion": "Encouraging",
+        "pace": "medium",
+        "intensity": "low"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Maya",
+        "text": "(whispering through tears) Are we going far?",
+        "emotion": "Fear",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Raj",
+        "text": "No, not too far. We just need an address.",
+        "emotion": "Calm",
+        "pace": "medium",
+        "intensity": "low"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Maya",
+        "text": "(shaking) Please... don't hurt me.",
+        "emotion": "Terror",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Raj",
+        "text": "I won't. I promise. I'm just helping you.",
+        "emotion": "Sincere",
+        "pace": "medium",
+        "intensity": "medium"
+      },
+      {
+        "speaker": "Female1",
+        "characterName": "Maya",
+        "text": "I just want my mom.",
+        "emotion": "Longing",
+        "pace": "slow",
+        "intensity": "high"
+      },
+      {
+        "speaker": "Male1",
+        "characterName": "Raj",
+        "text": "She must be worried. Let's find her.",
+        "emotion": "Determined",
+        "pace": "medium",
+        "intensity": "medium"
+      }
+    ]
+  },
+  "createdAt": "2026-04-03T05:09:56.815Z",
+  "updatedAt": "2026-04-03T13:29:34.399Z"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Airport-parting-scene",
+  "slug": "airport-parting-scene",
+  "scenePrompt": "An overwhelming parting dialogue of a father and daughter. Daughter has to go abroad for studies. Father is too worried because it her first time being detached from family and is too young",
+  "speakers": [
+    {
+      "id": "Male1",
+      "voiceName": "Puck",
+      "actingPrompt": "Soft-spoken, warm, slightly nervous, voice is filled with emotions"
+    },
+    {
+      "id": "Female1",
+      "voiceName": "Zephyr",
+      "actingPrompt": "Very bubbly, excited but at the same time too overwhelmed emotionally because loves her family very much"
+    }
+  ],
+  "dialogue": {
+    "title": "A Thousand Goodbyes",
+    "lines": [
+      {
+        "speaker": "Female1",
+        "text": "Papa! Can you believe it? My flight to Paris!"
+      },
+      {
+        "speaker": "Female1",
+        "text": "It's really happening! I'm so excited!"
+      },
+      {
+        "speaker": "Male1",
+        "text": "Yes, my little explorer. It's... wonderful."
+      },
+      {
+        "speaker": "Male1",
+        "text": "Just remember to call, okay? Every day."
+      },
+      {
+        "speaker": "Female1",
+        "text": "Of course! Twice a day if you want! You worry too much."
+      },
+      {
+        "speaker": "Male1",
+        "text": "You're so young, darling. This is your first time away."
+      },
+      {
+        "speaker": "Female1",
+        "text": "I'll be fine, Papa. I'm a big girl now, almost!"
+      },
+      {
+        "speaker": "Male1",
+        "text": "I know. But stay warm. Eat properly. No shortcuts."
+      },
+      {
+        "speaker": "Female1",
+        "text": "I promise. And I'll study so hard, you'll be proud."
+      },
+      {
+        "speaker": "Male1",
+        "text": "I'm already proud, my love. So very proud."
+      },
+      {
+        "speaker": "Male1",
+        "text": "Just... be careful out there, alright?"
+      },
+      {
+        "speaker": "Female1",
+        "text": "I will. Oh, Papa..."
+      },
+      {
+        "speaker": "Female1",
+        "text": "I'm going to miss you all so much. My heart feels heavy."
+      },
+      {
+        "speaker": "Male1",
+        "text": "We'll miss you more, sweet pea. More than words."
+      },
+      {
+        "speaker": "Male1",
+        "text": "Just go. Live your dream. We'll be waiting."
+      }
+    ]
+  },
+  "createdAt": "2026-03-03T07:56:47.700Z",
+  "updatedAt": "2026-03-03T07:58:00.042Z"
+}
