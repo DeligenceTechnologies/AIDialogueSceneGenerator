@@ -142,6 +142,10 @@ The `data/scenes/index.json` file maintains the scene list. This is **local file
 | --- | --- |
 | Missing API key | Make sure `.env` contains `GOOGLE_API_KEY` and restart the server. |
 | Gemini authentication error | Check the API key and whether the configured Gemini models are accessible. |
+| Invalid dialogue output | Review the backend console for Zod validation errors. |
+| Missing speaker voice | Ensure the generated speaker IDs match the configured speakers. |
+| Save returns HTTP 413 | The WAV audio may make the JSON request too large; review the API body size limit. |
+| Saved scenes disappear after deployment | Confirm the hosting environment provides persistent writable storage. |
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
@@ -183,13 +187,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-
-
-
-| Invalid dialogue output | Review the backend console for Zod validation errors. |
-| Missing speaker voice | Ensure the generated speaker IDs match the configured speakers. |
-| Save returns HTTP 413 | The WAV audio may make the JSON request too large; review the API body size limit. |
-| Saved scenes disappear after deployment | Confirm the hosting environment provides persistent writable storage. |
 
 ## Notes for contributors
 
