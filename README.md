@@ -204,5 +204,13 @@ Before opening a pull request, check that the app starts, scene generation works
 
 ## License
 
-No license is specified in this repository yet. Add a `LICENSE` file if you want to define how others may use, modify, and distribute this project.
+This project is licensed under the **MIT License**.
+
+Copyright (c) 2026 Deligence Technologies Inc.
+
+You may use, modify, distribute, and commercially use this software subject to the terms of the MIT License.
+
+See the [LICENSE](LICENSE) file for full details.
+
+This license applies to the original code in this repository. Third-party dependencies remain subject to their respective licenses. Use of Google Gemini services is subject to Google's applicable terms.
 
